@@ -1,0 +1,13 @@
+
+.carousel-image {
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 90%; 
+    height: auto; 
+  }
+
+  
+  .heightcarousel{
+    height: 410px;
+    object-fit: contain;
+  }

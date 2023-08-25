@@ -1,0 +1,29 @@
+.navclass .navbar-nav .nav-link {
+    font-size: larger;
+    color: rgb(107, 7, 107);
+}
+
+
+
+@media screen and (max-width: 992px) {
+
+    .navbar-toggler {
+        position: absolute;
+        top: 20%;
+        right: 5%;
+      }
+
+    .navbar-brand img {
+        
+        margin-left: 0%;
+        width: 80%;
+      }
+
+      .basketNOrderButton {
+        /* position: fixed; */
+        margin-top: 10px;
+        margin-left: 40%;
+      }
+  }
+  
+

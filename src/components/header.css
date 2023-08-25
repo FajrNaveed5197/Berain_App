@@ -1,0 +1,21 @@
+.headercolor{
+    font-size:larger;
+    color: white;
+    height: 8vh;
+    background-color: rgb(107, 7, 107);
+
+}
+@media screen and (max-width: 992px) {
+    body{
+        background-color: blue;
+    }    
+    .content{
+        margin-left: 5%;
+    }
+    .SearchButton{
+        display: flex;
+        position: relative;
+        margin-right: 1%;
+    }
+  }
+  
